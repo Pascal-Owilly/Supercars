@@ -11,6 +11,7 @@
     overflow: hidden;
     background: linear-gradient(to right, grey, #2e3f4d);
 }
+
 nav{
     width: 80%;
     position: sticky;
